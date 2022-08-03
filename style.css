@@ -12,7 +12,7 @@ h1{
 .name-cls{
   color: gold;
 }
-section{
+.sona-bondhu{
   display: flex;
 }
 p{
@@ -60,6 +60,7 @@ p{
 
 .middle-text p{
   padding-right: 100px;
+  margin: 33px;
 }
 .button-des{
   text-decoration: none;
@@ -68,4 +69,41 @@ p{
   background-image: linear-gradient(green, black);
   color: aliceblue;
   font-weight: 800;
+}
+.helf-width h2{
+  font-size: 45px;
+}
+.text-shaju{
+  text-align: justify;
+}
+.Last-kaj{
+  background-image: url(images/exp-bg.png);
+  background-repeat: no-repeat;
+  background-position: left;
+  
+}
+
+.experiences-itme{
+box-shadow: 10px 10px 40px green;
+width: 40%;
+margin-left: 5%;
+margin-right: 5%;
+padding-left: 20px;
+border-radius: 5px;
+
+}
+#ex-itme1{
+  border-left: 5px solid;
+  border-image: linear-gradient(blue, cyan);
+  border-image-slice: 1;
+}
+#ex-itme{
+  border-left: 5px solid;
+  border-image: linear-gradient(rgb(255, 0, 0), cyan);
+  border-image-slice: 1;
+}
+
+#fuck p{ 
+    padding: 50px;
+    text-align: center;
 }
